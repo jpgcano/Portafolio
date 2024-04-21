@@ -1,0 +1,15 @@
+---
+import SecctionConteiner from "../components/SecctionConteiner.astro";
+import { skills } from "../CV.json";
+import Strong from "../components/Strong.astro";
+import Card from "../components/Card.astro";
+---
+
+<SecctionConteiner title="Skills">
+    <h2 class="UPPERCASE text-4xl m-12">
+        <Strong> Skills </Strong>
+    </h2>
+    <ul class="flex gap-5 flex-wrap justify-center text-center">
+        {skills.map(({ name, svg }) => <Card href={svg} title={name} />)}
+    </ul>
+</SecctionConteiner>

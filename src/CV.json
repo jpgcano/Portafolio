@@ -1,0 +1,216 @@
+{
+    "basics": {
+        "name": "Juan pablo cano gallo",
+        "label": "programador",
+        "image": "",
+        "email": "juan-0395@hotmail.com",
+        "phone": "",
+        "url": "",
+        "summary": "",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Medellin",
+            "countryCode": "colombia",
+            "region": "Antioquia"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "HOSPITAL SAN JUAN DE DIOS SONSON",
+            "position": "SISTEMAS",
+            "url": "http://www.hospitalsonson-antioquia.gov.co/",
+            "startDate": "2023-06-07",
+            "endDate": "2024-01-01",
+            "summary": "Encargado del mantenimiento de computadores impresoras y red Inventario de equipo soporte en area a los empleados del hospital",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "HOSPITAL FUNDACION SAN VICENTE DE PAUL",
+            "position": "PRACTICANTE DESARROLLADOR",
+            "url": "https://www.sanvicentefundacion.com/",
+            "startDate": "2022-12-21",
+            "endDate": "2023-07-07",
+            "summary": "soporte en area a los empleados del hospital rpa automatizacion de procesos con rocketbot",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "servicio nacional de aprendizaje",
+            "url": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
+            "area": "DESARROLLO,SOFWARE",
+            "studyType": "TECNOLOGO",
+            "startDate": "07/08/2022",
+            "endDate": "01/11/2023",
+            "score": "",
+            "courses": [
+                "ANALISIS Y DESARROLLO DE SISTEMAS DE INFORMACION"
+            ]
+        },
+        {
+            "institution": "ALURA LATAM",
+            "url": "aluracursos.com",
+            "area": "DESARROLLO,FRONEND",
+            "studyType": "CERTIFICADO",
+            "startDate": "05/01/2024",
+            "endDate": "12/12/2024",
+            "score": "",
+            "courses": [
+                "PROGRAMACION, FRONEND"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "date": "",
+            "awarder": "",
+            "summary": ""
+        }
+    ],
+    "certificates": [
+        {
+            "name": "",
+            "date": "",
+            "issuer": "",
+            "url": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "",
+            "publisher": "",
+            "releaseDate": "",
+            "url": "",
+            "summary": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "experience": "Avanzado",
+            "svg": "../icons/python.png"
+        },
+        {
+            "name": "PHP",
+            "experience": "Intermedio",
+            "svg": "../icons/php.png"
+        },
+        {
+            "name": "JavaScript",
+            "experience": "Avanzado",
+            "svg": "/icons/javascript.png"
+        },
+        {
+            "name": "HTML",
+            "experience": "Avanzado",
+            "svg": "/icons/html.png"
+        },
+        {
+            "name": "CSS",
+            "experience": "Avanzado",
+            "svg": "/icons/css.png"
+        },
+        {
+            "name": "ASTRO",
+            "experience": "Avanzado",
+            "svg": "/icons/Astro.png"
+        },
+        {
+            "name": "TAILWIND",
+            "experience": "Avanzado",
+            "svg": "/icons/tailwind.png"
+        },
+        {
+            "name": "GIT",
+            "experience": "Avanzado",
+            "svg": "/icons/gitbash.png"
+        },
+        {
+            "name": "GIT",
+            "experience": "Avanzado",
+            "svg": "/icons/github.png"
+        }
+    ],
+    "languages": [
+        {
+            "language": "",
+            "fluency": ""
+        }
+    ],
+    "hobbis": [
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Aluravidio",
+            "startDate": "01/04/2024",
+            "endDate": "10/04/2024",
+            "description": "Challenge Oracle",
+            "highlights": [
+                ""
+            ],
+            "url": "https://github.com/jpgcano/Flex-box-aluravidio",
+            "demo": "https://jpgcano.github.io/Flex-box-aluravidio/"
+        },
+        {
+            "name": "DesafioEncriptar",
+            "startDate": "20/02/2024",
+            "endDate": "05/03/2024",
+            "description": "Challenge Oracle",
+            "highlights": [
+                ""
+            ],
+            "url": "https://github.com/jpgcano/DesafioEncriptar",
+            "demo": "https://jpgcano.github.io/DesafioEncriptar/"
+        },
+        {
+            "name": "Barberia-alura",
+            "startDate": "10/02/2024",
+            "endDate": "20/02/2024",
+            "description": "Challenge Oracle",
+            "highlights": [
+                ""
+            ],
+            "url": "https://github.com/jpgcano/Barberia-alura",
+            "demo": "https://jpgcano.github.io/Barberia-alura/"
+        }
+    ]
+}
